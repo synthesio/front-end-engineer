@@ -45,22 +45,21 @@ You​ ​will​ ​join​ ​an​ ​[engineering​ ​team](https://twitte
 * You’re​ ​excited​ ​to​ ​start​ ​from​ ​scratch​ ​to​ ​build​ ​a​ ​scalable​ ​and​ ​modern​ ​web​ ​application by​ ​using​ ​patterns,​ ​simple​ ​and​ ​reusable​ ​components​ ​for​ ​complex​ ​UIs
 * You​ ​always​ ​clarify​ ​requirements​ ​and​ ​solve​ ​complex​ ​problems​ ​as​ ​if​ ​they​ ​are​ ​simple
 * You’re​ ​committed​ ​to​ ​quality​ ​as​ ​a​ ​top​ ​priority​ ​-​ ​you​ ​pay​ ​attention​ ​to​ ​what​ ​to​ ​say,​ ​what
-you​ ​code,​ ​what​ ​you​ ​document​ ​and​ ​what​ ​you​ ​release
+  you​ ​code,​ ​what​ ​you​ ​document​ ​and​ ​what​ ​you​ ​release
 * You’re​ ​excited​ ​to​ ​mentor​ ​other​ ​teammates​ ​and​ ​teach​ ​them​ ​what​ ​you've​ ​learned,​ ​how
-you've​ ​succeeded​ ​and​ ​where​ ​you've​ ​failed
+  you've​ ​succeeded​ ​and​ ​where​ ​you've​ ​failed
 * You​ ​have​ ​a​ ​point​ ​of​ ​view​ ​-​ ​without​ ​trolling​ ​-​ ​with​ ​the​ ​patience​ ​to​ ​explain​ ​it
 * Legacy​ ​codebase​ ​VS​ ​Unit​ ​Tested​ ​codebase:​ ​it​ ​doesn’t​ ​affect​ ​your​ ​way​ ​of​ ​working
 * You​ ​enjoy​ ​to​ ​try,​ ​learn​ ​and​ ​mentor
-
 
 ## What​ ​we​ ​offer
 
 * Laptop​ ​of​ ​your​ ​choice
 * True​ ​big​ ​data​ ​experience​ ​with​ ​more​ ​than​ ​50​ ​millions​ ​of​ ​crawled​ ​mentions​ ​by​ ​day
-* True​ ​startup​ ​experience​ ​in​ ​center​ ​of​ ​Paris​ ​1er​ ​(Food​ ​enthusiasts​ ​take​ ​notes!)​ ​or Bruxelles
+* True​ ​startup​ ​experience​ ​in​ ​center​ ​of​ ​Paris​ ​1er​ ​(Food​ ​enthusiasts​ ​take​ ​notes!)​ ​or Brussels
 * Working​ ​in​ ​English​ ​with​ ​a​ ​multi-disciplinary​ ​international​ ​team
 
-##  Interview​ ​Process
+## Interview​ ​Process
 
 1. Phone​ ​call​ ​(30​ ​min)
 2. On-site​ ​immersion​ ​(3h)​ ​or​ ​Challenge​ ​at​ ​home
