@@ -27,8 +27,8 @@ You​ ​will​ ​join​ ​an​ ​[engineering​ ​team](https://twitte
 * A​ ​​[cli​ ​toolchain​​](https://drive.google.com/file/d/0B2lq1kFAThDGN2Frd0NGR0RaTG8/view) ​to​ ​automate​ ​and​ ​simplify​ ​all​ ​the​ ​things
 * Spotify​ ​squad​ ​inspiration​ ​to​ ​release​ ​every​ ​2​ ​weeks
 * [Monitoring​ ​dashboard​​](https://drive.google.com/file/d/0B2lq1kFAThDGOS1ZUTJibVEwak0/view) ​built​ ​with​ ​chart.io​ ​(next​ ​time​ ​with​ ​Grafana)
-* Massive​ ​data​ ​querying​ ​(100TB+​ ​Elasticsearch,​ ​25TB+​ ​MySQL​ ​cluster)
-* Service​ ​monitoring​ ​(20+​ ​HTTP​ ​APIs,​ ​25+​ ​Processing​ ​Daemons)
+* Massive​ ​data​ ​querying​ ​(750TB+ Elasticsearch, 500TB+ MySQL ​cluster, 50TB+ ScyllaDB)
+* Service​ ​monitoring​ ​(30+ HTTP APIs, 60+ Processing Daemons)
 * Data​ ​engineering​ ​based​ ​on​ ​Go,​ ​Docker,​ ​Vagrant,​ ​Ansible,​ ​Elasticsearch,​ ​Kafka...
 
 ## Junior​ ​Skills​ ​and​ ​Experience​ ​We​ ​Are​ ​Looking​ ​For
@@ -61,7 +61,8 @@ You​ ​will​ ​join​ ​an​ ​[engineering​ ​team](https://twitte
 
 ## Interview​ ​Process
 
-1. Phone​ ​call​ ​(30​ ​min)
-2. On-site​ ​immersion​ ​(3h)​ ​or​ ​Challenge​ ​at​ ​home
-3. Interviews​ ​with​ ​team​ ​members​ ​(you​ ​are​ ​going​ ​to​ ​work​ ​with)
-4. Offer
+1. Phone call or hangout call (30 min)
+2. Interviews and discussion with team members (you are going to work with)
+3. Role playing with Product, Data Eng. and SRE team
+4. Interview with CTO and HR
+5. Offer
